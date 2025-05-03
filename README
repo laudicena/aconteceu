@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Projeto ACONTECE</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #fffefa;
+      color: #222;
+    }
+
+    header {
+      background-color: #ffffff;
+      text-align: center;
+      padding: 2rem 1rem 1rem;
+      border-bottom: 3px solid #eee;
+    }
+
+    .logo-text {
+      font-size: 2.5rem;
+      font-weight: bold;
+      line-height: 1.2;
+    }
+
+    .logo-text span {
+      display: inline-block;
+      padding: 0 5px;
+    }
+
+    .A { color: orange; font-size: 3rem; font-style: italic; }
+    .C { color: #00a2ff; }
+    .O { color: #ff6f61; }
+    .N { color: #8e44ad; }
+    .T { color: #3498db; }
+    .E { color: #27ae60; }
+    .C2 { color: #95a5a6; }
+    .E2 { color: #f1c40f; }
+
+    .slogan {
+      font-style: italic;
+      margin-top: 0.5rem
